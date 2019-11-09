@@ -6,9 +6,7 @@ See how ref:https://www.raywenderlich.com/5823-how-to-create-a-cocoapod-in-swift
 After completing the framework work you have to:
 
 1. Create a Project.podspec file 
-
 ``` pod spec create Project  // This creates a spec ```
-
 ``` open -a Xcode RWPickFlavor.podspec // Open the spec file ```
 
 2. Import the info and dependencied in .podspec file
